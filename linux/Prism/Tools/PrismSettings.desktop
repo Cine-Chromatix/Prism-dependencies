@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=PRISMROOT/Tools/PrismSettings.sh
+Icon=PRISMROOT/Scripts/UserInterfacesPrism/p_tray.png
+Type=Application
+Terminal=false
+Comment=Prism Pipeline settings
+Name=PrismSettings
+GenericName=Prism Pipeline settings
+StartupNotify=false
+Categories=Prism;

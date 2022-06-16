@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=PRISMROOT/Tools/PrismProjectBrowser.sh
+Icon=PRISMROOT/Scripts/UserInterfacesPrism/p_tray.png
+Type=Application
+Terminal=false
+Comment=Prism Pipeline ProjectBrowser
+Name=PrismProjectBrowser
+GenericName=Prism Pipeline ProjectBrowser
+StartupNotify=false
+Categories=Prism;

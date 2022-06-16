@@ -1,0 +1,13 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>Prism</Name>
+    <Directory>PRISMROOT/Tools/Prism.directory</Directory>
+    <Include>
+      <Category>Prism</Category>
+    </Include>
+  </Menu>
+</Menu>

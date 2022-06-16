@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=PRISMROOT/Tools/PrismTray.sh
+Icon=PRISMROOT/Scripts/UserInterfacesPrism/p_tray.png
+Type=Application
+Terminal=false
+Comment=Prism Pipeline tray icon tools
+Name=PrismTray
+GenericName=Prism Pipeline tray
+StartupNotify=false
+Categories=Prism;
+Name[en_US]=PrismTray
